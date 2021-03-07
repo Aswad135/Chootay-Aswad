@@ -10,4 +10,5 @@ public class ChootayAswadApplication {
 		SpringApplication.run(ChootayAswadApplication.class, args);
 	}
 
+
 }
